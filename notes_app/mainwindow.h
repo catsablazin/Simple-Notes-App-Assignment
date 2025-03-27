@@ -28,5 +28,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+    QString saveNotes;
 };
 #endif // MAINWINDOW_H
